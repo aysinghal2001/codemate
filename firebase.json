@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "codemate",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
