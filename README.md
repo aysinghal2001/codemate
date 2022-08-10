@@ -1,7 +1,6 @@
 # CodeMate | Your AI Based Smart Coding Assistant
 
-CodeMate 
- [Bootstrap](https://preview.uideck.com/items/play-bootstrap/) project.
+CodeMate project.
 
 ### [🚀 View Demo]([https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate])
 
