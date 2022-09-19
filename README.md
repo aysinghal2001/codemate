@@ -1,15 +1,27 @@
-# CodeMate | Your AI Based Smart Coding Assistant
 
-CodeMate project.
+# Codemate| Your AI Based Smart Programming Assistant
 
-### [🚀 View Demo]([https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate])
+It help developers build products faster and better.
+Find more about the tool at codemate.web.app
 
-### [⬇️ Download Now](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate)
+## Features
 
-[![play-tailwind](https://postimg.cc/hh1xdM22)](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate)
+- Generate Code
+- Explain Code
+- Language Translator
+- Bug-fixer
+- Time-Complexity
+- Doc-string
 
-## 📃 License
+
+![Logo](https://i.postimg.cc/j5cGMrLT/Code-MATE-208-59-px.png)
 
 
-=======
-# codemate-website
+## Screenshots
+
+![App Screenshot](https://i.postimg.cc/MZhYgFVJ/Img1.png)
+
+![App Screenshot](https://i.postimg.cc/2SY7SL0H/img2.png)
+
+![App Screenshot](https://i.postimg.cc/vHfvyttg/img3.png)
+
