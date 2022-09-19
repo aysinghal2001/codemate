@@ -6,7 +6,7 @@ CodeMate project.
 
 ### [⬇️ Download Now](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate)
 
-[![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate)
+[![play-tailwind](https://ibb.co/Z193j04)](https://marketplace.visualstudio.com/items?itemName=AyushSinghal.Code-Mate)
 
 ## 📃 License
 
